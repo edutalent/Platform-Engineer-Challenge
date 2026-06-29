@@ -112,3 +112,9 @@ The goal is to evaluate how you think, how you make technical decisions, and whe
 * What CI/CD improvements would you implement?
 * How would you ensure platform documentation is discoverable, adopted, and consistently followed by engineering teams?
 * Which part of the platform would you choose to implement first, and why?
+
+## Submission
+
+* Create your own repository (public, or private with access granted to us) containing your solution.
+* Do not work in this repository or open pull requests here — it serves only as the challenge brief and is shared with all candidates.
+* Send the link to your repository via email/WhatsApp once you are done.
